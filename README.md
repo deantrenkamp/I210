@@ -1,2 +1,2 @@
 # I210
-python practice
+Coursework for INFO-I210 at IU (Python fundamentals)
